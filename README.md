@@ -21,6 +21,7 @@ Download the zip file
 Open in a Web Browser:
 
 Navigate to the project folder.
+
 Open index.jsp in your preferred web browser.
 
 Prerequisites:
@@ -54,6 +55,7 @@ Click on different categories to explore articles.
 Read insightful content and stay updated with the tech world.
 
 Tech Stack(Front-end):
+
 Frontend: HTML, CSS, Bootstrap
 
 Backend: Java, JSP
